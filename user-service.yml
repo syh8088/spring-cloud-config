@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://syh80882.cafe24.com/syh80882
+    username: syh80882
+    password: '{cipher}AQCh9iAFzfFXJXqHnwu0I5sMBv361HySJTnr1N+ZYG666mPduOCSyxEqc47sI8KOtAaeQ0bGlrjwEyeDc2Yl2RoV+iFUzmX7w180MQMC+vFyhgLQw1C0FG0fTx3Nj41xLU138655koiP4aCfGe6O3F+UwiiEwyqp3c7OYvo3A4CLkCWupEGev+YtC3aoQt+YTIkUtck6jfANtG88SsseTkGPSWqN4r/pdtzIcE+tglhNsOXwdPimMhv+eVOypL7bfuRXSBu1Nosj/SpbSMaGkcRLUyyjV1QGwz3xLedJUPZgOY3qFmd0Mymrixt6TE7f0s8X64BrICfUwJFM5GtlZyk3Gom+Zba0E/gg6z64sLC7pgoPWXrLyxd1/XMqcFddftU='
+    sql-script-encoding: utf-8
+
+token:
+  expiration_time: 86400000
+  secret: user_token_default
+
+gatewat:
+  ip: 127.0.0.1
