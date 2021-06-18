@@ -12,3 +12,6 @@ token:
 
 gatewat:
   ip: 127.0.0.1
+
+order_service:
+  url: http://order-service/order-service/%s/orders
