@@ -8,7 +8,7 @@ spring:
 
 token:
   expiration_time: 86400000
-  secret: user_token_default
+  secret: user_token_dev
 
 gatewat:
   ip: 127.0.0.1
