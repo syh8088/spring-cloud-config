@@ -4,3 +4,11 @@ docfriends:
       block: 2222
     bit-computer:
       block: 5678
+
+spring:
+  datasource:
+    driverClassName:
+    url:
+    username:
+    password: '{cipher}AQBlRDdDpKB5FOoRHpSwp94WMSRwj1bv2QYsZ49kjNbxTW5WdvUb2wCybXEtpxQBQHDvm55+GscwChqbViSE2Jpf88opiY1jPMpFxKjBZz6fPShHEU/1GYeLWDUoOoq8BE9VvOicLTOJqxB64RmenH6zCYCJGVI5TWeadfGyRISADwDmOoGTMPEHTDu447kdEvAX/JZLtTa0lsA14Zcy2M9XP7FUIWmmV6APyvEaSAWeXrOhLeophpHiva261gou99G9/nIfjbG+VY4IZCMSBHe8WHBZO9XSlXK6O2Z71j28Qd0dGJG4QDklXt+3pf53eP8hR/5MfoNFIyySUZd+KR3MVAwvVFZGElzm2XLyi3VVDxDkLRscbkAh1IxSOyNo7HI='
+    sql-script-encoding: utf-8
