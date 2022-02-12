@@ -11,7 +11,8 @@ token:
   secret: user_token_dev
 
 gatewat:
-  ip: 127.0.0.1
+#  ip: 127.0.0.1
+  ip: 172.18.0.5
 
 order_service:
   url: http://order-service/order-service/%s/orders
